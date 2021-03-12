@@ -1,0 +1,23 @@
+{
+  "id": "2394605",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13352198",
+      "name": "未标题-1-21",
+      "font_class": "weibiaoti--",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "19657962",
+      "name": "图 片",
+      "font_class": "image",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
